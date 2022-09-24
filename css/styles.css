@@ -1,0 +1,94 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #344055;
+    color: #F7F7FF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+}
+
+input, button {
+    padding: 8px 16px;
+    font-size: 1.5rem;
+    border-radius: 10px;
+    margin: 0 20px;
+    cursor: pointer;
+}
+
+input {
+    background-color: #85FFB8;
+    color: #344055;
+    border-color: #F7F7FF;
+    border-style: solid;
+}
+
+button {
+    background-color: #AA6DA3;
+    color: #F7F7FF;
+    border-color: #F7F7FF;
+    border-style: solid;
+}
+
+input, button:hover{
+    opacity: .9;
+}
+
+#resp {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+#containerTabela {
+    display: flex;
+    align-items: center;
+}
+
+#tabela {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#tabela thead tr {
+    background-color: #85FFB8;
+    color: #344055;
+    text-align: center;
+}
+
+#imc {
+    border-radius: 10px 5px 5px 5px;
+    border: solid #F7F7FF;
+    /* border-right: none;
+    border-bottom: none; */
+}
+
+#classificação {
+    border-radius: 5px 10px 5px 5px;
+    border: solid #F7F7FF;
+    /* border-left: none;
+    border-bottom: none; */
+}
+
+#tabela thead tr th {
+    padding: 5px;
+}
+
+/* celulas */
+#tabela td {
+    background-color: #AA6DA3;
+    padding: 5px;
+    text-align: center;
+    border-radius: 1px 1px 1px 5px;
+}
