@@ -92,3 +92,8 @@ input, button:hover{
     text-align: center;
     border-radius: 1px 1px 1px 5px;
 }
+
+.resultado {
+    color: #85FFB8;
+    border: solid;
+}
