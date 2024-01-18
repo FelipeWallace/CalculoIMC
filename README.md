@@ -1,5 +1,7 @@
 # Calculadora de IMC
 
+**LINK:** https://felipewallace.github.io/CalculoIMC/
+
 ## Descrição do Projeto
 
 Este projeto consiste em uma Calculadora de Índice de Massa Corporal (IMC). O IMC é uma medida que estima a quantidade de gordura corporal com base na altura e peso de uma pessoa. A calculadora aceita valores de peso e altura, realiza o cálculo do IMC e fornece uma interpretação do resultado com base nas faixas de classificação estabelecidas pela Organização Mundial da Saúde (OMS).
