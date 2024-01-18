@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-**LINK:** https://felipewallace.github.io/CalculoIMC/
+<a href="https://felipewallace.github.io/CalculoIMC/" target="_blank">Site do projeto</a>
 
 ## Descrição do Projeto
 
